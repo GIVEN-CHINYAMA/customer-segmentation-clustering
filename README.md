@@ -1,4 +1,4 @@
-markdown# 🛒 Customer Segmentation Using K-Means Clustering and RFM Analysis
+🛒 **Customer Segmentation Using K-Means Clustering and RFM Analysis**
 ### *An End-to-End Unsupervised Machine Learning Project*
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GIVEN-CHINYAMA/customer-segmentation-clustering/blob/main/customer_segmentation_clustering.ipynb)
